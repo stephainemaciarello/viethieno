@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oyookudahr.reverbhr.com/sitemap.xml
